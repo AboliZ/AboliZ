@@ -13,7 +13,7 @@
 
 📚 Learning, coding, and creating data magic. Let's connect and collaborate!
 
-📫 Reach me at [Your Email]
-🌐 Portfolio: [Your Portfolio Website or LinkedIn Profile]
+📫 Reach me at [abolizagade99@gmail.com]
+🌐 Portfolio: [https://linktr.ee/aboliz]
 
 #DataAnalytics #Python #DataViz #MachineLearning
